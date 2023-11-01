@@ -1,0 +1,23 @@
+.text-center{
+    text-align: center;
+}
+/* .bg-orange{
+    background-color: orangered;
+} */
+
+.flex{
+    display: flex;
+
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.inpt{
+    padding: 18px 0px;
+        font-size: 19px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
